@@ -1,0 +1,11 @@
+{
+  "name": "MeliciousFurnitureFixPlusLethalPerformanceCompat",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/TranslationLookasideBufferModding/MeliciousFurnitureFixPlusLethalPerformanceCompat.git",
+  "description": "MF x LethalPerformance Compat: repairs Utility Furniture Pack ship fire exit pairing across landings and enables both directions on clients. Required on all players.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "MelanieMelicious-MelanieMelicious_Utility_Furniture_Pack-2.0.5",
+    "IAmBatby-LethalLevelLoader-1.7.13"
+  ]
+}

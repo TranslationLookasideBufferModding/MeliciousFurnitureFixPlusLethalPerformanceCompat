@@ -1,0 +1,10 @@
+local.settings.json
+artifacts/
+tests/UnityHarness/Library/
+tests/UnityHarness/Logs/
+tests/UnityHarness/Temp/
+tests/UnityHarness/UserSettings/
+*.csproj
+*.sln
+*.meta
+tests/UnityHarness/Assets/Test*.unity
